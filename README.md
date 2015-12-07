@@ -1,2 +1,2 @@
 # wendingzhang.github.io
-My Blog
+My Static Blog
